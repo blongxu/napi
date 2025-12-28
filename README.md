@@ -3,7 +3,7 @@
 </p>
 
 <h4 align="center">
-N-Report - 白龙须 - 让报表制作更高效
+N-Api - 白龙须 - 让报表制作更高效
 </h4>
 
 <p align="center">
@@ -72,10 +72,10 @@ N-Api 支持丰富的数据源，通过划词的方式快速构建Api，并生�
 |     |     |
 | --- | --- |
 | 多数据源支持 | ![](images/链接数据源.png) |
-| 划词生成Api | ![](images/划词生成api.png) |
-| 交互式Api文档 | ![](images/api在线交互式文档.png) |
+| 划词生成Api | ![](images/划词生成Api.png) |
+| 交互式Api文档 | ![](images/在线交互式Api文档.png) |
 | 数据交换管理 | ![](images/数据交换.png) |
-| 文件池API | ![](images/文件池api.png) |
+| 文件池API | ![](images/文件池API.png) |
 
 ## 🚀 上手指南
 
